@@ -19,7 +19,7 @@ My contacts ⬇️
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) https://www.instagram.com/raffaelecaravetta/
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) https://www.facebook.com/profile.php?id=100007685357492
+[![My Skills](https://skillicons.dev/icons?i=facebook)](https://skillicons.dev) https://www.facebook.com/profile.php?id=100007685357492
 
 
 
