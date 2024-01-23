@@ -15,7 +15,8 @@ My skills ⬇️
 
 My contacts ⬇️
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) https://www.linkedin.com/in/raffaele-caravetta-webdeveloper/
+<kbd> <br> [[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)][Link] <br> </kbd>
+[Link]:https://www.linkedin.com/in/raffaele-caravetta-webdeveloper/
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) https://www.instagram.com/raffaelecaravetta/
 
