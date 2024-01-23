@@ -10,7 +10,7 @@ I was born ⭐ in Cosenza the 13th of October in 1994. I grew up in a near mount
 
 My skills ⬇️
 
-[![My Skills](https://skillicons.dev/icons?i=angular,atom,bash,js,html,css,bootstrap,blender,discord,eclipse,firebase,git,github,gmail,heroku,hibernate,idea,ai,mysql,nodej,postgres,spring,stackoverflow,threejs,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,atom,bash,js,html,css,bootstrap,blender,eclipse,firebase,git,github,heroku,hibernate,idea,ai,mysql,nodej,postgres,spring,stackoverflow,threejs,ts,vscode)](https://skillicons.dev)
 
 
 My contacts ⬇️
@@ -19,7 +19,10 @@ My contacts ⬇️
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) https://www.instagram.com/raffaelecaravetta/
 
-[![My Skills](https://skillicons.dev/icons?i=facebook)](https://skillicons.dev) https://www.facebook.com/profile.php?id=100007685357492
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) raffaelecaravetta13@gmail.com  
+
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) raffaelecaravetta
+
 
 
 
