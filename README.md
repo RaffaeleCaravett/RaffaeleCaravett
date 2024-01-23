@@ -15,7 +15,7 @@ My skills ⬇️
 
 My contacts ⬇️
 
-<kbd> <br> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) https://www.linkedin.com/in/raffaele-caravetta-webdeveloper/ <br> </kbd>
+<a href="[https://example.com/link-target](https://www.linkedin.com/in/raffaele-caravetta-webdeveloper/)" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">Linkedin</a>
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) https://www.instagram.com/raffaelecaravetta/
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) raffaelecaravetta13@gmail.com  
