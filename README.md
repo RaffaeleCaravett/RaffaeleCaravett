@@ -10,7 +10,7 @@ I was born ⭐ in Cosenza the 13th of October in 1994. I grew up in a near mount
 
 My skills ⬇️
 
-[![My Skills](https://skillicons.dev/icons?i=angular,atom,bash,js,html,css,bootstrap,blender,eclipse,firebase,git,github,heroku,hibernate,idea,ai,mysql,nodej,postgres,spring,stackoverflow,threejs,ts,vscode,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,atom,bash,js,html,css,bootstrap,blender,eclipse,firebase,git,github,heroku,hibernate,idea,ai,mysql,nodej,postgres,spring,stackoverflow,threejs,ts,vscode,react.redux)](https://skillicons.dev)
 
 
 
