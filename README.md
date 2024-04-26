@@ -7,6 +7,7 @@ I was born ⭐ in Cosenza the 13th of October in 1994. I grew up in a near mount
 - "Work so hard that your GitHub profile become your stackoverflow ". 💬
 
   I love to learn, as much as i love to travel and explore the world. 🌍
+  
 
 My skills ⬇️
 
