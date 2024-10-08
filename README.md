@@ -1,7 +1,7 @@
 
 Hi everyone 👋 
 
-I don't write the best code. I only write code. If your searching for perfection here, you're in the wrong place. Here you will find only 100% improvable lines and structures of code.
+I don't write the best code. If your searching for perfection here, you're in the wrong place. Here you will find only 100% improvable lines and structures of code.
   
 
 Some of the technologies i've worked with : 
