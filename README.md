@@ -1,6 +1,7 @@
 
 Hi everyone 👋 
 
+
 I don't write the best code. If your searching for perfection, you're in the wrong place. Here you will find only 100% improvable lines and structures of code.
   
 
