@@ -1,9 +1,4 @@
-
-Hi everyone,
-
-
-Here is my code.
-  
+👋   
 
 My stack : 
 
